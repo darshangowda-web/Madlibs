@@ -90,10 +90,3 @@ For any questions or suggestions, feel free to contact me at:
 
 Enjoy creating your own stories with the **Advanced Mad Libs Game**! 🎉
 
-
-### Customization Tips
-- **Replace the placeholder URLs and email** with your actual GitHub URL and email.
-- **Add a screenshot** of the game (named `mad_libs_image.jpeg`) to the project directory for a better visual representation in the README.
-- **Update the title and sections** as needed to suit your project's branding or details. 
-
-Feel free to copy and paste this into your `README.md` file!
