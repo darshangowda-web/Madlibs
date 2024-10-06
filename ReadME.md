@@ -41,11 +41,11 @@ pip install Pillow
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/mad-libs-game.git
-cd mad-libs-game
+git clone (https://github.com/darshangowda-web/Madlibs.git)
+cd Madlibs
 ```
 
-Make sure to replace `yourusername` with your actual GitHub username.
+Make sure to replace `darshangowda-web` with your actual GitHub username.
 
 ---
 
@@ -55,7 +55,7 @@ Make sure to replace `yourusername` with your actual GitHub username.
 2. Run the script:
 
 ```bash
-python mad_libs_game.py
+python madlibs.py
 ```
 
 3. Choose a theme from the dropdown menu.
