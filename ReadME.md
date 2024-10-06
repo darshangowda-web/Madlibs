@@ -83,8 +83,8 @@ If you would like to contribute to this project, please fork the repository and 
 
 For any questions or suggestions, feel free to contact me at:
 
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: cynicalcharm007@gmail.com
+- GitHub: [yourusername]((https://github.com/darshangowda-web))
 
 ---
 
