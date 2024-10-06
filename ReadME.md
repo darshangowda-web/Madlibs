@@ -67,7 +67,7 @@ python mad_libs_game.py
 
 ## 🖼️ Screenshot
 
-![Mad Libs Game Screenshot](mad_libs_image.jpeg)
+![Mad Libs Game Screenshot](image.png)
 
 ---
 
