@@ -84,7 +84,7 @@ If you would like to contribute to this project, please fork the repository and 
 For any questions or suggestions, feel free to contact me at:
 
 - Email: cynicalcharm007@gmail.com
-- GitHub: [yourusername](https://github.com/darshangowda-web)
+- GitHub: [darshangowda-web](https://github.com/darshangowda-web)
 
 ---
 
