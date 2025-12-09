@@ -65,14 +65,6 @@ python madlibs.py
 
 ---
 
-## 🖼️ Screenshot
-
-![Mad Libs Game Screenshot](image.png)
-
----
-
-
-
 ## 🤝 Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. All contributions are welcome!
@@ -83,10 +75,11 @@ If you would like to contribute to this project, please fork the repository and 
 
 For any questions or suggestions, feel free to contact me at:
 
-- Email: cynicalcharm007@gmail.com
+- Email: darshangowda.academia@gmail.com
 - GitHub: [darshangowda-web](https://github.com/darshangowda-web)
 
 ---
 
 Enjoy creating your own stories with the **Advanced Mad Libs Game**! 🎉
+
 
